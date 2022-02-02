@@ -1,0 +1,66 @@
+2022-01-29 14:23:16,016 - root - INFO - ====================================================================================================
+2022-01-29 14:23:16,056 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:29:04,493 - root - INFO - ====================================================================================================
+2022-01-29 14:29:04,497 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:29:07,530 - root - INFO - Iniciando funcao recomendador_filmes
+2022-01-29 14:29:07,531 - root - INFO - Efetuando carregametno das bases.
+2022-01-29 14:29:07,737 - root - INFO - Efetuando unificação bases.
+2022-01-29 14:29:07,774 - root - INFO - Criadno campo de total_avaliações.
+2022-01-29 14:29:07,808 - root - INFO - Efetuando o pivoteamento das bases.
+2022-01-29 14:29:08,285 - root - INFO - Iniciando função procura_filmes
+2022-01-29 14:29:08,286 - root - INFO - Efetuando busca por nomes similares.
+2022-01-29 14:29:10,778 - root - INFO - Efetuando busca pelo nome do filme.
+2022-01-29 14:29:10,779 - root - INFO - Efetuando correlacões entre filmes
+2022-01-29 14:29:12,426 - root - INFO - Montando lista de sugestões de filmes.
+2022-01-29 14:29:23,163 - root - INFO - ==========| Finalzando Sistema de Recomendação|==========
+2022-01-29 14:29:23,164 - root - INFO - ====================================================================================================
+2022-01-29 14:31:09,997 - root - INFO - ====================================================================================================
+2022-01-29 14:31:10,000 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:31:12,806 - root - INFO - Iniciando funcao recomendador_filmes
+2022-01-29 14:31:12,807 - root - INFO - Efetuando carregametno das bases.
+2022-01-29 14:31:12,992 - root - INFO - Efetuando unificação bases.
+2022-01-29 14:31:13,025 - root - INFO - Criadno campo de total_avaliações.
+2022-01-29 14:31:13,050 - root - INFO - Efetuando o pivoteamento das bases.
+2022-01-29 14:31:13,350 - root - INFO - Iniciando função procura_filmes
+2022-01-29 14:31:13,351 - root - INFO - Efetuando busca por nomes similares.
+2022-01-29 14:31:15,386 - root - INFO - Efetuando busca pelo nome do filme.
+2022-01-29 14:31:15,387 - root - INFO - Efetuando correlacões entre filmes
+2022-01-29 14:31:16,484 - root - INFO - Montando lista de sugestões de filmes.
+2022-01-29 14:31:22,052 - root - INFO - ====================================================================================================
+2022-01-29 14:31:22,053 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:31:26,449 - root - INFO - Iniciando funcao recomendador_filmes
+2022-01-29 14:31:26,449 - root - INFO - Efetuando carregametno das bases.
+2022-01-29 14:31:26,578 - root - INFO - Efetuando unificação bases.
+2022-01-29 14:31:26,612 - root - INFO - Criadno campo de total_avaliações.
+2022-01-29 14:31:26,633 - root - INFO - Efetuando o pivoteamento das bases.
+2022-01-29 14:31:26,942 - root - INFO - Iniciando função procura_filmes
+2022-01-29 14:31:26,943 - root - INFO - Efetuando busca por nomes similares.
+2022-01-29 14:31:28,409 - root - INFO - Efetuando busca pelo nome do filme.
+2022-01-29 14:31:28,410 - root - INFO - Efetuando correlacões entre filmes
+2022-01-29 14:31:29,534 - root - INFO - Montando lista de sugestões de filmes.
+2022-01-29 14:31:34,572 - root - INFO - ====================================================================================================
+2022-01-29 14:31:34,573 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:31:39,819 - root - INFO - Iniciando funcao recomendador_filmes
+2022-01-29 14:31:39,819 - root - INFO - Efetuando carregametno das bases.
+2022-01-29 14:31:39,990 - root - INFO - Efetuando unificação bases.
+2022-01-29 14:31:40,025 - root - INFO - Criadno campo de total_avaliações.
+2022-01-29 14:31:40,053 - root - INFO - Efetuando o pivoteamento das bases.
+2022-01-29 14:31:40,468 - root - INFO - Iniciando função procura_filmes
+2022-01-29 14:31:40,469 - root - INFO - Efetuando busca por nomes similares.
+2022-01-29 14:31:42,706 - root - INFO - Efetuando busca pelo nome do filme.
+2022-01-29 14:31:42,709 - root - INFO - Efetuando correlacões entre filmes
+2022-01-29 14:31:43,935 - root - INFO - Montando lista de sugestões de filmes.
+2022-01-29 14:33:03,074 - root - INFO - ====================================================================================================
+2022-01-29 14:33:03,075 - root - INFO - ==========| Iniciando Sistema de Recomendação|==========
+2022-01-29 14:33:05,302 - root - INFO - Iniciando funcao recomendador_filmes
+2022-01-29 14:33:05,302 - root - INFO - Efetuando carregametno das bases.
+2022-01-29 14:33:05,432 - root - INFO - Efetuando unificação bases.
+2022-01-29 14:33:05,453 - root - INFO - Criadno campo de total_avaliações.
+2022-01-29 14:33:05,471 - root - INFO - Efetuando o pivoteamento das bases.
+2022-01-29 14:33:05,721 - root - INFO - Iniciando função procura_filmes
+2022-01-29 14:33:05,722 - root - INFO - Efetuando busca por nomes similares.
+2022-01-29 14:33:12,545 - root - INFO - Efetuando busca pelo nome do filme.
+2022-01-29 14:33:12,546 - root - INFO - Efetuando correlacões entre filmes
+2022-01-29 14:33:13,785 - root - INFO - Montando lista de sugestões de filmes.
+2022-01-29 14:33:23,071 - root - INFO - ==========| Finalzando Sistema de Recomendação|==========
+2022-01-29 14:33:23,071 - root - INFO - ====================================================================================================
